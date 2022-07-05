@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-## Задача3: Postman Echo [![Build status](https://ci.appveyor.com/api/projects/status/ot0jiwx6dxdn7ig0?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto2postmanecho)
-=======
+
 ## Задача3: Postman Echo [![Build status](https://ci.appveyor.com/api/projects/status/4utu6o036ckasx46?svg=true)](https://ci.appveyor.com/project/Corpse2011/auto2postmanecho)
 
 >>>>>>> 9fdf7ce (Initial commit)

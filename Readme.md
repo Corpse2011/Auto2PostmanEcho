@@ -1,8 +1,5 @@
 
 ## Задача3: Postman Echo [![Build status](https://ci.appveyor.com/api/projects/status/4utu6o036ckasx46?svg=true)](https://ci.appveyor.com/project/Corpse2011/auto2postmanecho)
-
->>>>>>> 9fdf7ce (Initial commit)
-
 ## Домашнее задание к занятию «1.2. Тестирование API, CI»
 ## Задача №3 - Postman Echo
 
@@ -21,7 +18,7 @@
 // Предусловия
 given()
   .baseUri("https://postman-echo.com")
-  .body("some data") // отправляемые данные (заголовки и query можно выставлять аналогично)
+        .body("some data") // отправляемые данные (заголовки и query можно выставлять аналогично)
 // Выполняемые действия
 .when()
   .post("/post")
